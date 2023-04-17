@@ -1,5 +1,7 @@
 # MERN Login and Registration Example
 
+[![Node.js](https://img.shields.io/badge/Node.js-14.17.0-green.svg)](https://nodejs.org/en/)  [![npm](https://img.shields.io/npm/v/nodemon.svg)](https://www.npmjs.com/package/nodemon)
+
 ### This is an example project that demonstrates how to implement user authentication and registration using the MERN (MongoDB, Express, React, Node.js) stack.
 
 ## *Getting Started
