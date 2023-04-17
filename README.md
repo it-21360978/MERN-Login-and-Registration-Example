@@ -12,16 +12,21 @@ To get started with this project, clone the repository and install the dependenc
 
 ## *Features
 
-Create a MongoDB database and define a user schema with necessary fields (e.g. email, password).
+This project includes the following features:
 
-Use Express.js to create RESTful APIs for user registration and authentication.
+User registration with email and password
+User login with email and password
+JSON Web Token (JWT) based authentication
+Protected routes that require authentication
+Error handling and validation to ensure secure user authentication and registration
 
-Implement client-side forms using React.js to allow users to input their registration and login information.
 
-Use Node.js to handle user authentication on the server-side by verifying the user's credentials against the ones stored in the database.
+## Technologies Used
+This project uses the following technologies:
 
-Generate a JSON web token (JWT) on successful login and store it in the client-side local storage for subsequent API requests.
+*MongoDB: A NoSQL database used to store user information
+*Express.js: A server-side web framework for Node.js used to *handle HTTP requests and responses
+*React.js: A client-side web framework for building user interfaces
+*Node.js: A JavaScript runtime environment used to run the server-side code
+*JSON Web Tokens (JWT): A standard for secure communication between parties, used to authenticate and authorize API requests
 
-Protect routes that require authentication by checking for the presence of a valid JWT in the request header.
-
-Add error handling and validation to ensure secure user authentication and registration.
