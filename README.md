@@ -1,3 +1,3 @@
 # MERN Login and Registration Example
 
-implement login and registration functionality in a MERN (MongoDB, Express, React, Node.js) web application
+##This is an example project that demonstrates how to implement user authentication and registration using the MERN (MongoDB, Express, React, Node.js) stack.
