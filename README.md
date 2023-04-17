@@ -36,9 +36,8 @@ This project uses the following technologies:
 
 - [GIHAN SERASINGHE](https://github.com/it-21360978)
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+# License
+## *This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gihan-serasinghe-457033264)
